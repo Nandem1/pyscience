@@ -54,30 +54,3 @@ python main.py
 ```bash
 pip install pandas pdfplumber openpyxl
 ```
-
----
-
-## 🧼 Buenas prácticas aplicadas
-
-- Clean Code & Modularización
-- Tipado de funciones y nombres claros
-- Manejo de errores y validaciones
-- Logging de errores persistente (`validacion.log`)
-- Estructura lista para testing, escalamiento o integración futura
-
----
-
-## 💡 Ideas futuras
-
-- Agregar CLI para elegir carpeta o archivo destino
-- Exportación en formatos CSV o base de datos
-- Dashboard con gráficos por producto o caja
-- Soporte multi-página o multi-línea por PDF
-
----
-
-## ✍️ Autor
-
-Este proyecto fue creado y refactorizado con arquitectura profesional por iniciativa del usuario ✨
-
-¿Quieres colaborar o escalarlo a una app web o API? ¡Adelante! 😄
